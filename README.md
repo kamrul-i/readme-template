@@ -23,7 +23,6 @@ this is second line.
 # Kamrul islam
 ## kamrul islam
 ### kamrul islam
-### kamrul islam
 #### kamrul islam
 ##### kamrul islam
 ###### kamrul islam
@@ -37,7 +36,7 @@ this is second line.
 <br/>
 
 ### italic text
-<i>I am kamrul islam</i>  
+<i> I am kamrul islam </i>  
 _I am kamrul islam_  
 
 
@@ -50,7 +49,7 @@ __I am kamrul islam__
 <br/>
 
 ### strick through
-<del>I am kamrul islam</del>  
+<del> I am kamrul islam </del>  
 ~~I am kamrul islam~~
 
 
@@ -59,7 +58,7 @@ __I am kamrul islam__
 <!--এ পদ্ধতিকে inline code block বলে -->
 ### single line code block
 `I am kamrul islam`  
-`<h1>I am kamrul islam</h1>`  
+`<h1> I am kamrul islam </h1>`  
 
 
 <br/>
